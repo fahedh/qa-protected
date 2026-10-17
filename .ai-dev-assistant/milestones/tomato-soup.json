@@ -1,0 +1,17 @@
+{
+  "milestone": "tomato-soup",
+  "checks": {
+    "two-cards": {
+      "test": "two-cards: the page shows the Pancakes and Tomato soup cards",
+      "file": "test/page.test.js"
+    },
+    "soup-details": {
+      "test": "soup-details: the Tomato soup card lists tomatoes, onion and stock and says 30 minutes",
+      "file": "test/page.test.js"
+    },
+    "test-two-cards": {
+      "test": "test-two-cards: the page test counts exactly two recipe cards",
+      "file": "test/page.test.js"
+    }
+  }
+}
